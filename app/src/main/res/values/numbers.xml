@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="nama_numbers_indo">
+         <item>NOL</item>
+<item>SATU</item>
+<item>DUA</item>
+<item>TIGA</item>
+<item>EMPAT</item>
+<item>LIMA</item>
+<item>ENAM</item>
+<item>TUJUH</item>
+<item>DELAPAN</item>
+<item>SEMBILAN</item>
+<item>SEPULUH</item>
+<item>SEBELAS</item>
+<item>DUA BELAS</item>
+<item>TIGA BELAS</item>
+<item>EMPAT BELAS</item>
+<item>LIMA BELAS</item>
+<item>ENAM BELAS</item>
+<item>TUJUH BELAS</item>
+<item>DELAPAN BELAS</item>
+<item>SEMBILAN BELAS</item>
+<item>DUA PULUH</item>
+        
+    </string-array>
+     <string-array name="nama_numbers_inggris">
+        <item>ZERO</item>
+<item>ONE</item>
+<item>TWO</item>
+<item>THREE</item>
+<item>FOUR</item>
+<item>FIVE</item>
+<item>SIX</item>
+<item>SEVEN</item>
+<item>EIGHT</item>
+<item>NINE</item>
+<item>TEN</item>
+<item>ELEVEN</item>
+<item>TWELVE</item>
+<item>THIRD TEEN</item>
+<item>FOUR TEEN</item>
+<item>FIVE TEEN</item>
+<item>SIX TEEN</item>
+<item>SEVEN TEEN</item>
+<item>EIGHT TEEN</item>
+<item>NINE TEEN</item>
+<item>TWENTY</item>
+
+        
+    </string-array>
+</resources>

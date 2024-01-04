@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/imagesv"
+    android:orientation="vertical" >
+<LinearLayout  
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="right"
+    android:layout_weight="0.1"
+    android:orientation="horizontal" >
+
+       <Gallery
+        android:id="@+id/gallery1"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+      />
+    
+     <ImageView
+        android:id="@+id/imgVBack"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/back" />
+     
+      <ImageView
+        android:id="@+id/imgVHome"
+        android:layout_width="62dp"
+        android:layout_height="62dp"
+        android:src="@drawable/home" />
+  </LinearLayout>
+  
+  <LinearLayout  
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="right"
+       android:layout_weight="2"
+    android:orientation="horizontal" >
+    <ImageView
+      android:id="@+id/imgVGambar"
+      android:layout_width="match_parent"
+      android:layout_gravity="center_horizontal"
+      android:scaleType="fitXY"
+      android:layout_weight="0.5"
+      android:layout_height="match_parent"
+     />
+    <LinearLayout  
+    	android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:gravity="center"
+       	android:layout_weight="1"
+    	android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tvInggris"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-- Inggris --"
+            android:textColor="@color/solid_red"
+            android:textSize="12pt" />
+
+        <TextView 
+          android:id="@+id/tvIndo"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:textColor="@color/solid_blue"
+          android:textSize="12pt"
+          android:text="-- Indo --"  
+           
+            />
+        
+        </LinearLayout>
+  </LinearLayout>
+  
+  <LinearLayout  
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:gravity="center"
+      	android:layout_weight="0.1"
+   	    android:orientation="horizontal" >
+   <ImageView
+      	android:id="@+id/imgVTranslate"
+      	android:layout_width="140dp"
+      	android:layout_height="68dp"
+      	android:src="@drawable/translate" />
+
+   <ImageView
+       android:id="@+id/imgVSayit"
+       android:layout_width="94dp"
+       android:layout_height="match_parent"
+       android:src="@drawable/sayit" />
+ 
+  </LinearLayout>
+
+
+   
+</LinearLayout>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources>
+    <string-array name="nama_buah_indo">
+        <item>APEL</item>
+<item>PBUAH PERSIK</item>
+<item>PIR</item>
+<item>PISANG</item>
+<item>PREM</item>
+<item>KIWI</item>
+<item>PEPAYA</item>
+<item>MANGGA</item>
+<item>KELAPA</item>
+<item>ALPUKAT</item>
+<item>NANAS</item>
+<item>SEMANGKA</item>
+<item>LEMON</item>
+<item>LIMAU</item>
+<item>JERUK</item>
+<item>ANGGUR</item>
+<item>CERI</item>
+<item>KURMA</item>
+<item>KISMIS</item>
+<item>STROBERI</item>
+<item>BERI</item>
+<item>BUAH NAGA</item>
+<item>DURIAN</item>
+<item>JAMBU BIJI</item>
+<item>BUAH NANGKA</item>
+<item>LECI</item>
+<item>MARKISA</item>
+<item>KESEMAK</item>
+<item>DELIMA</item>
+<item>BELIMBING</item>
+<item>KELENGKENG</item>
+<item>RAMBUTAN</item>
+<item>MELON</item>
+<item>SALAK</item>
+<item>TOMAT</item>
+        
+    </string-array>
+     <string-array name="nama_buah_inggris">
+        <item>APPLE</item>
+<item>PEACH</item>
+<item>PEAR</item>
+<item>BANANA</item>
+<item>PLUM</item>
+<item>KIWI</item>
+<item>PAPAYA</item>
+<item>MANGO</item>
+<item>COCONUT</item>
+<item>AVOCADO</item>
+<item>PINEAPPLE</item>
+<item>WATERMELON</item>
+<item>LEMON</item>
+<item>LIME</item>
+<item>ORANGE</item>
+<item>GRAPES</item>
+<item>CHERRIES</item>
+<item>DATES</item>
+<item>RAISINS</item>
+<item>STRAWBERRIES</item>
+<item>BERRY</item>
+<item>DRAGOFRUIT</item>
+<item>DURIAN</item>
+<item>GUAVA</item>
+<item>JACKFRUIT</item>
+<item>LYCHEE</item>
+<item>PASSION</item>
+<item>PERSIMMON</item>
+<item>POMEGRANATE</item>
+<item>STAR FRUIT</item>
+<item>LONGAN FRUIT</item>
+<item>RAMBUTAN FRUIT</item>
+<item>MELON</item>
+<item>SALAK</item>
+<item>TOMATO</item>
+        
+    </string-array>
+</resources>
+ 

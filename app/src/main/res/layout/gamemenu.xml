@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgplay"
+   
+     >
+
+    <ImageView
+        android:id="@+id/imgBtnSound"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/sound" />
+
+    <ImageView
+        android:id="@+id/imgVPlayGames"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imgBtnSound"
+        android:layout_marginRight="59dp"
+        android:layout_toLeftOf="@+id/imgBtnSound"
+        android:src="@drawable/btnplaygame" />
+
+    <ImageView
+        android:id="@+id/imgBtnHighScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imgBtnHowToPlay"
+        android:layout_below="@+id/imgBtnSound"
+        android:layout_marginTop="25dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/btnhighscore" />
+
+    <ImageView
+        android:id="@+id/imgBtnHowToPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/imgBtnHighScore"
+        android:src="@drawable/howtoplay" />
+
+    <ImageView
+        android:id="@+id/imgBtnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/imgBtnHowToPlay"
+        android:src="@drawable/btnback" />
+
+    <TextView
+        android:id="@+id/tvPlayerName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/imgVPlayGames"
+        android:layout_marginLeft="51dp"
+        android:text="----------"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</RelativeLayout>

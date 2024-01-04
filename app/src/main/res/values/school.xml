@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="nama_school_indo">
+        <item>PETA DUNIA</item>
+<item>TAS</item>
+<item>IKAT PINGGANG</item>
+<item>PAPAN TULIS HITAM</item>
+<item>BUKU</item>
+<item>PEMBATAS BUKU</item>
+<item>KALKULATOR</item>
+<item>KALENDER</item>
+<item>UPACARA</item>
+<item>KURSI</item>
+<item>KAPUR</item>
+<item>RUANG KELAS</item>
+<item>JAM DINDING</item>
+<item>KOMPAS</item>
+<item>KOMPUTER</item>
+<item>KRAYON</item>
+<item>MEJA</item>
+<item>KAMUS</item>
+<item>JANGKA</item>
+<item>PENGHAPUS</item>
+<item>BOLA DUNIA</item>
+<item>LEM</item>
+<item>TOPI</item>
+<item>STABILO</item>
+<item>TINTA</item>
+<item>LAPTOP</item>
+<item>PETA</item>
+<item>SPIDOL</item>
+<item>PENA</item>
+<item>KOTAK PENSIL</item>
+<item>PENSIL WARNA</item>
+<item>PENSIL</item>
+<item>KEPALA SEKOLAH</item>
+<item>BUSUR</item>
+<item>PENGGARIS / MISTAR</item>
+<item>GUNTING</item>
+<item>RAUTAN / PERUNCING</item>
+<item>SEPATU</item>
+<item>KAOS KAKI</item>
+<item>STEPLER</item>
+<item>MURID</item>
+<item>GURU</item>
+<item>DASI</item>
+<item>JAM TANGAN</item>
+<item>PAPAN TULIS PUTIH</item>
+        
+    </string-array>
+     <string-array name="nama_school_inggris">
+        <item>ATLAS</item>
+<item>BAG</item>
+<item>BELT</item>
+<item>BLACKBOARD</item>
+<item>BOOK</item>
+<item>BOOKMARK</item>
+<item>CALCULATOR</item>
+<item>CALENDAR</item>
+<item>CEREMONY</item>
+<item>CHAIR</item>
+<item>CHALK</item>
+<item>CLASSROOM</item>
+<item>CLOCK</item>
+<item>COMPASS</item>
+<item>COMPUTER</item>
+<item>CRAYON</item>
+<item>DESK</item>
+<item>DICTIONARY</item>
+<item>DIVIDER</item>
+<item>ERASER</item>
+<item>GLOBE</item>
+<item>GLUE</item>
+<item>HAT</item>
+<item>HIGHLIGHTER</item>
+<item>INK</item>
+<item>LAPTOP</item>
+<item>MAP</item>
+<item>MARKER</item>
+<item>PEN</item>
+<item>PENCIL CASE</item>
+<item>COLORED PENCILS</item>
+<item>PENCIL</item>
+<item>PRINCIPAL</item>
+<item>PROTACTOR</item>
+<item>RULER</item>
+<item>SCISSORS</item>
+<item>SHARPENER</item>
+<item>SHOE</item>
+<item>SOCK</item>
+<item>STAPLER</item>
+<item>STUDENT</item>
+<item>TEACHER</item>
+<item>TIE</item>
+<item>WATCH</item>
+<item>WHITEBOARD</item>
+        
+    </string-array>
+</resources>

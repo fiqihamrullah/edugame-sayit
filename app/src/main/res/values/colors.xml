@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="nama_warna_indo">
+         <item>BIRU AIR</item>
+<item>COKLAT KEMERAHAN</item>
+<item>HITAM</item>
+<item>BIRU</item>
+<item>MERAH TUA</item>
+<item>COKELAT</item>
+<item>KREM</item>
+<item>BIRU TERANG</item>
+<item>EMAS</item>
+<item>ABU-ABU</item>
+<item>HIJAU</item>
+<item>UNGU MUDA</item>
+<item>HIJAU TUA</item>
+<item>MERAH KEUNGU-UNGUAN</item>
+<item>MERAH TUA</item>
+<item>JINGGA/ORANGE</item>
+<item>PEACH</item>
+<item>MERAH MUDA</item>
+<item>UNGU</item>
+<item>MERAH</item>
+<item>PERAK</item>
+<item>BIRU KEHIJAUAN</item>
+<item>COKELAT MUDA</item>
+<item>PUTIH</item>
+<item>KUNING</item>
+        
+    </string-array>
+     <string-array name="nama_warna_inggris">
+         <item>AQUA</item>
+<item>AUBURN</item>
+<item>BLACK</item>
+<item>BLUE</item>
+<item>BRONZE</item>
+<item>BROWN</item>
+<item>CREAM</item>
+<item>CYAN</item>
+<item>GOLD</item>
+<item>GRAY</item>
+<item>GREEN</item>
+<item>LAVENDER</item>
+<item>LIME</item>
+<item>MAGENTA</item>
+<item>MAROON</item>
+<item>ORANGE</item>
+<item>PEACH</item>
+<item>PINK</item>
+<item>PURPLE</item>
+<item>RED</item>
+<item>SILVER</item>
+<item>TURQUOISE</item>
+<item>WHEAT</item>
+<item>WHITE</item>
+<item>YELLOW</item>
+
+        
+    </string-array>
+
+
+        <color name="purple_200">#FFBB86FC</color>
+        <color name="purple_500">#FF6200EE</color>
+        <color name="purple_700">#FF3700B3</color>
+        <color name="teal_200">#FF03DAC5</color>
+        <color name="teal_700">#FF018786</color>
+        <color name="black">#FF000000</color>
+        <color name="white">#FFFFFFFF</color>
+
+
+</resources>

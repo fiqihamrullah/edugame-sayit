@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <string-array name="nama_bodyparts_indo">
+        <item>MATA KAKI</item>
+<item>LENGAN</item>
+<item>KETIAK</item>
+<item>PUNGGUNG</item>
+<item>JENGGOT</item>
+<item>BOKONG/PANTAT</item>
+<item>BETIS</item>
+<item>PIPI</item>
+<item>DADA</item>
+<item>DAGU</item>
+<item>TELINGA</item>
+<item>SIKU</item>
+<item>MATA</item>
+<item>WAJAH</item>
+<item>JARI</item>
+<item>JARI TELUNJUK</item>
+<item>DAHI</item>
+<item>GUSI</item>
+<item>RAMBUT</item>
+<item>TANGAN</item>
+<item>TUMIT</item>
+<item>PINGGUL</item>
+<item>LUTUT</item>
+<item>KAKI</item>
+<item>BIBIR</item>
+<item>JARI TENGAH</item>
+<item>MULUT</item>
+<item>OTOT</item>
+<item>KUMIS</item>
+<item>KUKU</item>
+<item>LEHER</item>
+<item>HIDUNG</item>
+<item>TELAPAK TANGAN</item>
+<item>JARI KELINGKING</item>
+<item>JARI MANIS</item>
+<item>BAHU/PUNDAK</item>
+<item>TELAPAK KAKI</item>
+<item>PERUT</item>
+<item>PAHA</item>
+<item>IBU JARI/JEMPOL</item>
+<item>JARI KAKI</item>
+<item>LIDAH</item>
+<item>GIGI</item>
+<item>PINGGANG</item>
+<item>PERGELANGAN TANGAN</item>
+        
+    </string-array>
+     <string-array name="nama_bodyparts_inggris">
+        <item>ANGKLE</item>
+<item>ARM</item>
+<item>ARMPIT</item>
+<item>BACK</item>
+<item>BEARD</item>
+<item>BOTTOM</item>
+<item>CALF</item>
+<item>CHEEK</item>
+<item>CHEST</item>
+<item>CHIN</item>
+<item>EAR</item>
+<item>ELBOW</item>
+<item>EYE</item>
+<item>FACE</item>
+<item>FINGER</item>
+<item>FORE FINGER</item>
+<item>FOREHEAD</item>
+<item>GUM</item>
+<item>HAIR</item>
+<item>HAND</item>
+<item>HEEL</item>
+<item>HIP</item>
+<item>KNEE</item>
+<item>LEG</item>
+<item>LIP</item>
+<item>MIDDLE FINGER</item>
+<item>MOUTH</item>
+<item>MUSCLE</item>
+<item>MUSTACHE</item>
+<item>NAIL</item>
+<item>NECK</item>
+<item>NOSE</item>
+<item>PALM</item>
+<item>LITTLE FINGER</item>
+<item>RING FINGER</item>
+<item>SHOULDER</item>
+<item>SOLE</item>
+<item>STOMACH</item>
+<item>THIGH</item>
+<item>THUMB</item>
+<item>TOES</item>
+<item>TONGUE</item>
+<item>TOOTH</item>
+<item>WAIST</item>
+<item>WRIST</item>
+
+        
+    </string-array>
+</resources>

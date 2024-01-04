@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nama_transports_indo">
+       <item>BAJAJ</item>
+<item>BECAK</item>
+<item>BEMO</item>
+<item>SEPEDA</item>
+<item>BIS</item>
+<item>MOBIL</item>
+<item>GEROBAK</item>
+<item>DOKAR</item>
+<item>HELIKOPTER</item>
+<item>PESAWAT JET</item>
+<item>MOTOR</item>
+<item>PERAHU</item>
+<item>PESAWAT</item>
+<item>RAKIT</item>
+<item>ROKET</item>
+<item>SAMPAN</item>
+<item>SKUTER</item>
+<item>KAPAL</item>
+<item>SKATEBOARD</item>
+<item>PERAHU MOTOR</item>
+<item>PAPAN SELANCAR</item>
+<item>MOBIL TANGKI</item>
+<item>TAKSI</item>
+<item>KERETA API</item>
+<item>TRUK</item>
+        
+    </string-array>
+     <string-array name="nama_transports_inggris">
+        <item>BAJAJ</item>
+<item>PEDICAB</item>
+<item>BEMO</item>
+<item>BICYCLE</item>
+<item>BUS</item>
+<item>CAR</item>
+<item>CART</item>
+<item>GIG</item>
+<item>HELICOPTER</item>
+<item>JET</item>
+<item>MOTORCYCLE</item>
+<item>BOAT</item>
+<item>PLANE</item>
+<item>RAFTS</item>
+<item>ROCKET</item>
+<item>SAMPAN</item>
+<item>SCOOTER</item>
+<item>SHIP</item>
+<item>SKATEBOARD</item>
+<item>SPEEDBOAT</item>
+<item>SURFBOARD</item>
+<item>TANKER</item>
+<item>TAXI</item>
+<item>TRAIN</item>
+<item>TRUCK</item>
+        
+    </string-array>
+</resources>
